@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey, I'm Intri!
+I'm a student currently working on uping my skills in networking and software engineering.
+I'm always happy to learn more things about the tech world!
 
 <!--
 **Intrigrated/Intrigrated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
